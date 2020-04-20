@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "66784d47039da51b129a0cc3912d323f"
+build_time: [1587369849, 935280000]
+inputs:
+  "/Users/Arifeen/Desktop/Old Done Task/webView/webView/ViewController.swift": [1586540333, 554340071]
+  "/Users/Arifeen/Desktop/Old Done Task/webView/webView/AppDelegate.swift": [1585742290, 839320194]

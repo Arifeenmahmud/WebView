@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>279C727A-EA79-4601-B8DF-692E21197678</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>279C727A-EA79-4601-B8DF-692E21197678.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>webView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>webView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug webView</string>
+			<key>timeStartedRecording</key>
+			<real>608396066.66716301</real>
+			<key>timeStoppedRecording</key>
+			<real>608396352.31297696</real>
+			<key>title</key>
+			<string>Debug webView</string>
+			<key>uniqueIdentifier</key>
+			<string>279C727A-EA79-4601-B8DF-692E21197678</string>
+		</dict>
+		<key>588C63A2-1FE1-463F-BDA2-A9645F32BC22</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>588C63A2-1FE1-463F-BDA2-A9645F32BC22.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>webView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>webView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug webView</string>
+			<key>timeStartedRecording</key>
+			<real>608395863.51842499</real>
+			<key>timeStoppedRecording</key>
+			<real>608396066.55199504</real>
+			<key>title</key>
+			<string>Debug webView</string>
+			<key>uniqueIdentifier</key>
+			<string>588C63A2-1FE1-463F-BDA2-A9645F32BC22</string>
+		</dict>
+		<key>E4B0B061-953D-42D5-957B-B3AFC4A978EF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E4B0B061-953D-42D5-957B-B3AFC4A978EF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>webView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>webView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug webView</string>
+			<key>timeStartedRecording</key>
+			<real>608233351.64243495</real>
+			<key>timeStoppedRecording</key>
+			<real>608233480.62780702</real>
+			<key>title</key>
+			<string>Debug webView</string>
+			<key>uniqueIdentifier</key>
+			<string>E4B0B061-953D-42D5-957B-B3AFC4A978EF</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
