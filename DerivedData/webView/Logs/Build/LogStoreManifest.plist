@@ -40,40 +40,6 @@
 			<key>uniqueIdentifier</key>
 			<string>C380A0B9-2254-4E2D-BDF9-0B39643EEAA9</string>
 		</dict>
-		<key>DB5C02BC-56C9-4229-9F44-2954E34ACAAD</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>DB5C02BC-56C9-4229-9F44-2954E34ACAAD.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>webView project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>webView</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build webView</string>
-			<key>timeStartedRecording</key>
-			<real>609062811.30391204</real>
-			<key>timeStoppedRecording</key>
-			<real>609062811.39828706</real>
-			<key>title</key>
-			<string>Build webView</string>
-			<key>uniqueIdentifier</key>
-			<string>DB5C02BC-56C9-4229-9F44-2954E34ACAAD</string>
-		</dict>
 	</dict>
 </dict>
 </plist>

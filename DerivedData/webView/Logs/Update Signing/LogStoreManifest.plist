@@ -6,6 +6,34 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>02055FE4-4337-4988-98BF-79A79666536F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.ProvisioningLog</string>
+			<key>fileName</key>
+			<string>02055FE4-4337-4988-98BF-79A79666536F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>Update Signing</string>
+			<key>timeStartedRecording</key>
+			<real>610470638.865574</real>
+			<key>timeStoppedRecording</key>
+			<real>610470644.94757795</real>
+			<key>title</key>
+			<string>Update Signing</string>
+			<key>uniqueIdentifier</key>
+			<string>02055FE4-4337-4988-98BF-79A79666536F</string>
+		</dict>
 		<key>66B8E0B5-47D6-4E83-9CC6-45B85FEB7B2E</key>
 		<dict>
 			<key>className</key>
@@ -33,34 +61,6 @@
 			<string>Update Signing</string>
 			<key>uniqueIdentifier</key>
 			<string>66B8E0B5-47D6-4E83-9CC6-45B85FEB7B2E</string>
-		</dict>
-		<key>73512050-042A-49A1-BED5-260241E8A06B</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.ProvisioningLog</string>
-			<key>fileName</key>
-			<string>73512050-042A-49A1-BED5-260241E8A06B.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>signature</key>
-			<string>Update Signing</string>
-			<key>timeStartedRecording</key>
-			<real>609062646.41474295</real>
-			<key>timeStoppedRecording</key>
-			<real>609062651.65467501</real>
-			<key>title</key>
-			<string>Update Signing</string>
-			<key>uniqueIdentifier</key>
-			<string>73512050-042A-49A1-BED5-260241E8A06B</string>
 		</dict>
 	</dict>
 </dict>
